@@ -57,13 +57,14 @@ Pax ladra y mueve la cola.
 
 —En un rato paramos —dice la madre, sonriendo por el espejo.
 
+---
+
 —¿Vamos a comer fideos? —pregunta Tino.
 
 —No, hoy vamos a comer verduras y pescado.
 
 —¡Qué rico! —dice Tino, aplaude y luego acaricia a Pax.
 
----
 
 Tino mira por la ventana y ve cientos de montañas con los picos muy blancos. La nieve continúa en lo más alto de los Pirineos aunque sea verano. Se escucha que el motor de La titi está rugiendo más fuerte. 
 
@@ -73,9 +74,11 @@ Cuando era más chiquito, Tino tenía vértigo; las curvas le daban mucho mareo.
 
 ---
 
-Al llegar a la cima, la madre estaciona la casa rodante en un área con mesas entre pinos. Desde allí se pueden ver las otras montañas. Son enormes, es un lugar muy alto. Los cuatro ven a través del parabrisas las granjas sobre la enorme pastura. También pueden oír los cencerros de las vacas lecheras, las ovejas y cabras. La madre le dice a Tino que se desabroche el cinturón. Tino obedece y también desprende el arnés de Pax. Su padre se levanta y saca de una caja una vieja pelota de tenis que le entrega a Tino.
+Al llegar a la cima, la madre estaciona la casa rodante en un área con mesas entre pinos. Desde allí se pueden ver las otras montañas. Son enormes, es un lugar muy alto. Los cuatro ven a través del parabrisas las granjas sobre la enorme pastura. También pueden oír los cencerros de las vacas lecheras, las ovejas y cabras. 
 
+La madre le dice a Tino que se desabroche el cinturón. Tino obedece y también desprende el arnés de Pax. Su padre se levanta y saca de una caja una vieja pelota de tenis que le entrega a Tino.
 
+---
 
 —Juega un rato con Pax —le dice el padre.
 
@@ -109,6 +112,8 @@ Todos ríen a carcajadas.
 
 —Mamá, yo no soy inteligente —Tino señala con un dedo su cabeza—. Es el casco el que tiene superpoderes y me pasa sus ideas.
 
+---
+
 —Tino, ya te explicamos que el casco no pasa las ideas. Al casco solo lo tenés que usar para andar en bicicleta. El casco se usa por si un día tenés un accidente, para que cuando caigas, no te des un golpe en la cabeza.
 
 —Tino, tu madre está diciendo la verdad. Tenés que sacarte el casco para seguir comiendo.
@@ -117,9 +122,13 @@ Tino suelta los cubiertos. Cierra los ojos. Aprieta los puños. Pax lo mira. Tin
 
 —Cuando era más chiquitito me dijeron que si me quitaba el casco se me irían las ideas. Yo me lo quería sacar y siempre me decían lo mismo, así que no me mientan más, por favor.
 
+---
+
 —Amor, es verdad que te dijimos eso. Pero lo hicimos porque tenías una pequeña malformación en la oreja y lo necesitabas para protegerte. Lo había dicho la doctora. Tino, era el tratamiento que tenías que seguir. Pero ahora no, ya tenés 7 años. Ya sabés leer, sabés las capitales de casi todos los países, sabés alimentar a Pax, sabés inglés y portugués. Amor, no tengas miedo, tus ideas no se van a ir porque ya no estás enfermo. Es mejor que te saqués el casco y solo lo uses cuando des paseos con la bicicleta.
 
 —¡No, no es verdad! Si me sacan el casco me quedaré sin ideas. Y yo no quiero ser un niño bobo, quiero seguir aprendiendo los países y las capitales, porque cuando sea grande quiero dar la vuelta al mundo —dice Tino y se levanta de la silla.
+
+---
 
 Su madre y el padre lo miran. Tino pone las manos en la hebilla del casco. Le cuesta respirar. Sus manos tiemblan. De todas formas, suelta la hebilla y se quita el casco. Caen lágrimas de sus ojos. Toca a Pax, le hace seña de que lo siga. Su padre y la madre se miran durante un segundo. El padre, al ver que Tino está corriendo hacia la casa rodante, se levanta y le grita:
 
@@ -134,6 +143,8 @@ Tino abre la puerta de La titi, espera que suba Pax y cierra de un portazo.
 La madre y el padre quedaron en la mesa, discutiendo cómo lograr que no vuelva a usar el casco. Uno propone esconderlo; el otro duda de que esa sea la solución. La madre se lleva una mano a la frente. El padre la abraza e intenta animarla.
 
 Adentro de La titi, Tino se mira en el espejo del baño los ojos rojos y vidriosos. Pax lame su pierna. Niega con la cabeza. Se lava la cara rápidamente y le dice a Pax que lo siga. Tino cruza el salón de la casa rodante y llega al llavero. Agarra la llave de La titi. Mira por la ventana y ve que la madre y el padre siguen en el mismo lugar comiendo manzanas. Tino camina hasta el asiento del piloto y, al sentarse, se da cuenta que no llega a los pedales.
+
+---
 
 —Pax, cuando yo prenda el motor vos apretá el acelerador que nos vamos a dar la vuelta al mundo. Es el pedal de la derecha —dice Tino.
 
@@ -173,6 +184,8 @@ Pax ladra y mueve la cola.
 
 —Tú concéntrate, Pax, que para llegar tenés que ir apretando siempre el pedal.
 
+---
+
 La titi se mueve entre las montañas, es una tarde soleada, no hay otros vehículos en la carretera. Solo están ellos dos. Las vacas mugen a un lado del camino y al otro se oyen los balidos de las cabras y ovejas. Se ven pequeñas cabañas a lo lejos y águilas que vuelan en lo alto, más alto que las montañas, casi tocando las nubes.
 
 ---
@@ -185,11 +198,13 @@ Tino se da cuenta de que el camino deja de subir y comienza una enorme bajada. S
 
 Pax aprieta el pedal con sus dos patas delanteras. La titi baja un poco la velocidad, pero no frena. Se aproxima una curva. Tino gira el volante. Caen latas de salsa de tomate, atún, garbanzos. La casa rodante pierde estabilidad. Todo vibra. Tino mira para atrás y ve que también cae la ropa. Pax pone las cuatro patas en el pedal. Pero tampoco puede detener la casa rodante. Al contrario, La titi va agarrando poco a poco más velocidad aunque el freno esté apretado al máximo. A Tino le suda la frente, no puede limpiarse. Agarra el volante con más fuerza y piensa en voz alta:
 
-—Si papá y mamá no me hubieran obligado a sacar el casco, ahora podría tener ideas brillantes y esto no estaría pasando. Claro, Pax, ya tengo una idea. Andá a buscar mi antiguo casco, el de cuando era niño.
-
 ---
 
+—Si papá y mamá no me hubieran obligado a sacar el casco, ahora podría tener ideas brillantes y esto no estaría pasando. Claro, Pax, ya tengo una idea. Andá a buscar mi antiguo casco, el de cuando era niño.
+
 Pax suelta el freno y corre. La titi empieza a bajar aún más rápido. Se acerca otra curva cerrada. Tino se gira para ver qué hace Pax. El perro salta a la cama y trepa por un mueble hasta la repisa, en donde muerde el antiguo casco de Tino.
+
+---
 
 —¡Rápido, Pax, si aprieto el freno de mano nos daremos vuelta. Menos mal que recuerdo todo esto que me enseñó papá. Desde que era chiquitito papá siempre me hablaba y recuerdo eso, que apretar el freno de mano es muy peligroso, que primero tengo que apretar el pedal de freno.
 
@@ -214,6 +229,8 @@ Pax salta del asiento y aprieta el pedal con sus cuatro patas. Se aproxima la cu
 Tino baja a tercera velocidad e inmediatamente a segunda.
 
 —Pax, vuelve al medio. Vuelve al freno.
+
+---
 
 Pax obedece y La titi ahora sí circula despacio. Se avecinan más curvas. Tino las ve y vuelve a sudar, a respirar agitado. Pax ladra. Tino llora. Pax vuelve a ladrar. Ladra mucho. Tino fija la mirada en la carretera. La titi se mueve mucho, se escuchan ruidos metálicos.
 
@@ -262,6 +279,8 @@ Tino ordena todo lo que cayó de la casa rodante. Limpia y tira a la basura las 
 
 —Te quiero, Pax. Sos mi mejor amigo.
 
+---
+
 Pax se pega a la pierna de Tino y se frota. Luego salta y le da besos en los cachetes. Tino lo vuelve a saludar hasta que siente el ruido del agua caliente en la olla. Suelta a Pax, se lava las manos y tira un puñado de fideos en la olla que desprende mucho vapor. Espera unos minutos y cuando terminan de hacerse, escurre los fideos. Aprovecha a utilizar una de las latas de pulpa de tomate que habían caído y la vierte encima de los tallarines. Abre la heladera, saca un paquete y tira un poco de queso rallado por encima. Lleva las comidas de Pax y de él a la mesa. Cuando Tino va a buscar los cubiertos, Pax comienza a comer.
 
 —Pax, tenés que esperar.
@@ -269,6 +288,8 @@ Pax se pega a la pierna de Tino y se frota. Luego salta y le da besos en los cac
 Pax obedece y pone carita de pena. Tino le dice que no es para tanto. Se sienta junto a Pax y comen. Pax termina la comida primero y vuelve a poner cara triste.
 
 —Ya te conozco, Pax —dice Tino e igual le da un tallarín.
+
+---
 
 Al terminar, Tino se levanta, agarra una manzana y convida con pedacitos a Pax. Pax ladra porque quiere salir a hacer pis de nuevo. Tino abre y ve la luna llena, rodeada de estrellas. Se siente el frío. Tino se pone una camperita y va a buscar la linterna. Alumbra a Pax, que anda olfateando en el pasto. Después de que un fuerte viento le sacuda la puerta de la casa rodante, da un silbido y Pax vuelve corriendo. Tino cierra y después pone la tranca y la alarma. En la carretera no hay nadie. Pero piensa que es mejor estar seguro.
 
@@ -286,6 +307,8 @@ Se lava manos, los dientes y luego agarra un libro de viajes. Se va a la cama co
 
 De repente, Pax queda sentado en la cama y levanta las orejas.
 
+---
+
 —Tranquilo, Pax, nosotros tenemos comida. Además tenemos cocina y lo más importante, tenemos agua. En caso de que nos quedáramos sin agua como Pepe, tenemos el río ahí al lado. No te preocupes que ya nos encontrarán.
 
 Tino cerró el libro, abrazó a Pax y siguió hablando:
@@ -299,6 +322,8 @@ Tino cerró el libro, abrazó a Pax y siguió hablando:
 Tino ronca. Se mueve de un lado para el otro de la cama. Pax lo mira. Tino grita dormido: «¡Estamos acá! ¡Vengan a rescatarnos!». Pax sube las orejas porque oye el ruido de un motor. Tino continúa moviéndose. Pax ladra. Tino sigue durmiendo. Pax muerde la camiseta de Tino y jadea, y solo después de unos segundos despierta. Del susto, Tino queda sentado en la cama.
 
 —¿Qué pasa, Pax? ¿Por qué no me dejás dormir?
+
+---
 
 Pax ladra más fuerte. Salta de la cama y va a la puerta. Tino le dice que se quede tranquilo, que vuelva a la cama. Pero Pax ladra más y más fuerte. Tino baja los pies de la cama y prende la luz de la linterna. Alumbra a Pax, que aúlla. Tino tiene miedo. El motor del auto cada vez está más cerca. Tino se esconde debajo de la frazada: tiembla. Pax está cada vez más enérgico. Se oyen que las puertas del auto se cierran y se escucha un murmullo de voces. Pax, de repente, comienza a mover la cola y va dando saltos hasta donde está Tino para darle lengüetazos en la cara.
 
@@ -328,11 +353,15 @@ Tras un largo abrazo familiar, la madre va a agradecer al hombre que ayudó a bu
 
 La madre le pide la llave. Tino se la entrega. La madre enciende La titi y la saca de la carretera. Estaciona la casa rodante encima del pasto, muy cerca del río. El padre, que está sentado junto a Tino, no deja de abrazarlo. Cuando la madre apaga el motor, Tino dice:
 
+---
+
 —Papá, mamá, quiero disculparme por lo que hice; me siento muy mal. Lo que hice fue una locura. Me fui con La titi sin saber manejar. Podría haber tenido un accidente. Estoy arrepentido. Muy arrepentido. No volverá a ocurrir.
 
 Tino llora. La madre y el padre lo abrazan. Y el padre dice:
 
 —Tino, nosotros también queremos pedirte perdón por haberte mentido cuando eras chiquitito. Y por haber sostenido esa mentira incluso después de que te hayas recuperado de la enfermedad. Nosotros te veíamos tan chiquitito y en cierto punto pensábamos que podrías volver a enfermarte que te seguimos poniendo el casco aunque ya estuvieses bien —dice el padre y llora.
+
+---
 
 Pax le da besos al padre.
 
@@ -340,11 +369,15 @@ La madre abraza a ambos y dice:
 
 —Tino, pienso lo mismo que tu padre. Yo también te pido disculpas. Estábamos aprendiendo a ser madre y padre y no sabíamos qué hacer para que no te quitaras el casco y se me ocurrió decirte que si te lo sacabas quedarías sin ideas. Y eso es una mentira. Vos sos inteligente hasta sin casco. Mirá, Tino, aunque hayas tenido motivos para ponerte mal, hacer lo que hiciste, de irte con La titi así, podría haber terminado en una tragedia. ¡Esto no puede repetirse!
 
+---
+
 Tino niega con la cabeza.
 
 —Papá, mamá, les juro que no lo volveré hacer hasta que tenga la libreta de conducir. Cuando la tenga, con Pax nos iremos a dar la vuelta al mundo. Vamos a conocer todos los países y las capitales del libro —agarra el libro y se lo enseña a la madre y el padre.
 
 —Me parece muy bien que persigas tus sueños, Tino. Pero antes de dar la vuelta al mundo tienes que ser obediente y si hay algo que no te guste tienes que contárnoslo. Tienes que hablarlo. Nosotros estamos acá para apoyarte y ayudarte con todo.
+
+---
 
 Tino asiente y les da un abrazo. Pax ladra y mueve la cola. Tino se limpia las lágrimas y dice:
 
