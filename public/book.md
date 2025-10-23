@@ -1,9 +1,5 @@
 
 
-# La casa rodante de Tino
-
----
-
 ![Portada](images/0.jpg)
 
 ---
