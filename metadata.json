@@ -1,0 +1,5 @@
+{
+  "name": "Markdown Book Viewer",
+  "description": "An interactive web application that loads a local Markdown file and displays it as a book with an animated page-turning effect. Features include a table of contents, light/dark modes, and responsive single or double-page layouts.",
+  "requestFramePermissions": []
+}
