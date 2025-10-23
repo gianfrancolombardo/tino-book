@@ -16,7 +16,7 @@ const BookViewer: React.FC<BookViewerProps> = ({ pages, currentPage, fontSize, i
         const page = pages[currentPage];
         return (
             <div className="w-full h-full flex items-center justify-center" style={{ perspective: '2000px' }}>
-                <div className="relative w-full h-full max-w-[80vw] max-h-[90vh] lg:max-w-lg aspect-[1/1.4]">
+                <div className="relative w-full h-full max-w-[60vw] max-h-[70vh] lg:max-w-md aspect-[1/1.4]">
                     {page && <Page 
                         key={page.pageNumber}
                         frontPage={page}
@@ -32,7 +32,7 @@ const BookViewer: React.FC<BookViewerProps> = ({ pages, currentPage, fontSize, i
 
     return (
         <div className="w-full h-full flex items-center justify-center" style={{ perspective: '2000px' }}>
-            <div className="relative w-full h-full max-w-[80vw] max-h-[90vh] lg:max-w-6xl aspect-[2/1.4]">
+            <div className="relative w-full h-full max-w-[60vw] max-h-[70vh] lg:max-w-4xl aspect-[2/1.4]">
                 {/* This is the book cover's inside-left, always static */}
                 <div className="absolute w-1/2 h-full left-0 bg-white dark:bg-gray-800 shadow-inner"></div>
 

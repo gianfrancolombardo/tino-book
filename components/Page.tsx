@@ -51,7 +51,7 @@ const PageSideContent: React.FC<{ page?: PageType, fontSize: number }> = ({ page
     }
     return (
         <div className="absolute inset-0 p-8 md:p-12 overflow-hidden bg-white dark:bg-gray-800 shadow-lg flex flex-col">
-            <div className="flex-grow" style={{ fontSize: `${fontSize}px`, lineHeight: 1.7 }}>
+            <div className="flex-grow flex flex-col justify-center" style={{ fontSize: `${fontSize}px`, lineHeight: 1.7 }}>
                 {page.type === 'image' ? (
                     <div className="w-full h-full flex items-center justify-center">
                         <img src={page.content} alt={`Illustration for page ${page.pageNumber}`} className="max-w-full max-h-full object-contain" />
